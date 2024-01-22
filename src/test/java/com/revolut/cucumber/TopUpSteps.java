@@ -5,7 +5,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class MyStepdefs {
+public class TopUpSteps {
 
   @Given("Conor has {int} euro in his Revolut account")
   public void conorHasEuroInHisRevolutAccount(int arg0) {
